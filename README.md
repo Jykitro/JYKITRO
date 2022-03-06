@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**Jykitro/JYKITRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Denis and I'm very excited to meet you in my profile.
 
-Here are some ideas to get you started:
+I live in Ukraine and now I am passionately engaged in the development of bots for Telegram and Scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working on a project right now and I'll tell you more about it soon.
+
+I also have experience with such technologies:
+
+- Python: - 1 years
+- Aiogram - 5 Months
+- Mysql - 3 Months
+
+I am currently learning C# and JavaScript.
+
+Glory to Ukraine 🇺🇦
