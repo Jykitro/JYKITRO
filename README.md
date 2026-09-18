@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Denis%20Bodrov&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20Odesa%20%F0%9F%87%BA%F0%9F%87%A6&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Denys%20Bodrov&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20Odesa%20%F0%9F%87%BA%F0%9F%87%A6&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
@@ -17,7 +17,7 @@
 ## ⚡ About Me
 
 ```yaml
-name:     Denis
+name:     Denys
 location: Odesa, Ukraine 🇺🇦
 role:     Full-Stack Developer & Indie SaaS Founder
 focus:    ["Backend Architecture", "SaaS Products", "Performance Optimization"]
