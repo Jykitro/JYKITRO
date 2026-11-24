@@ -132,7 +132,7 @@ I design REST APIs, move slow work into background jobs, and build the pipelines
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jykitro&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jykitro&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=64ffda&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img height="165" alt="Most Used Languages" src="https://raw.githubusercontent.com/Jykitro/JYKITRO/refs/heads/output/most-used-languages.svg" />
 
 </div>
 
