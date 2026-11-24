@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: contribution-snake
+  group: profile-graphics
   cancel-in-progress: false
 
 jobs:
