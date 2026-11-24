@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Python, Go, Rust and TypeScript · Building Plandillo](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&width=600&lines=Python+%2F+Go+%2F+Rust+%2F+TypeScript;Building+Plandillo+for+Claude+and+Codex)](https://github.com/Jykitro/Docket)
+[![Python, Go, Rust and TypeScript · Building Plandillo](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&width=600&lines=Python+%2F+Go+%2F+Rust+%2F+TypeScript;Building+Plandillo+for+Claude+and+Codex)](https://github.com/huntly-digital/plandillo)
 
 </div>
 
@@ -39,7 +39,7 @@ I run **3 products** across analytics, HR tech, and job boards. My work spans th
 
 ## 🚀 Currently Building
 
-<a href="https://github.com/Jykitro/Docket">
+<a href="https://github.com/huntly-digital/plandillo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/plandillo-inverse.svg">
     <img src="./assets/plandillo.svg" width="224" alt="Plandillo">
@@ -50,7 +50,7 @@ I built **Plandillo** so my coding agents and I can share a task board. I outlin
 
 One Go binary includes the React interface and MCP server. It runs locally with SQLite and supports PostgreSQL for self-hosted workspaces.
 
-[Repository](https://github.com/Jykitro/Docket) · [Quick start](https://github.com/Jykitro/Docket#quick-start) · [Connect an agent](https://github.com/Jykitro/Docket#connecting-agents-mcp)
+[Repository](https://github.com/huntly-digital/plandillo) · [Quick start](https://github.com/huntly-digital/plandillo#quick-start) · [Connect an agent](https://github.com/huntly-digital/plandillo#connecting-agents-mcp)
 
 ---
 
