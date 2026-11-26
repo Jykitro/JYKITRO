@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="190" viewBox="0 0 340 190" role="img" aria-labelledby="title desc" font-family="Segoe UI,Arial,sans-serif">
 <title id="title">Most Used Languages</title>
-<desc id="desc">Public non-fork projects including Plandillo, by code size. Go 53.78%, TypeScript 35.57%, JavaScript 5.26%, CSS 2.44%, HTML 2.29%, Makefile 0.25%, Dockerfile 0.21%, Shell 0.21%.</desc>
+<desc id="desc">Public non-fork projects including Plandillo, by code size. Go 49.10%, TypeScript 40.80%, JavaScript 4.50%, Astro 3.00%, CSS 1.03%, PLpgSQL 0.80%, HTML 0.22%, Shell 0.21%.</desc>
 <rect x=".5" y=".5" width="339" height="189" rx="5" fill="#0d1117" stroke="#30363d"/>
 <text x="22" y="31" font-size="18" font-weight="600" fill="#64ffda">Most Used Languages</text>
 <text x="22" y="51" font-size="11" fill="#a0acb8">Public projects · by code size</text>
 <defs><clipPath id="bar"><rect x="22" y="65" width="296" height="9" rx="4.5"/></clipPath></defs>
 <g clip-path="url(#bar)"><rect x="22" y="65" width="296" height="9" fill="#687582"/>
-<rect x="22.0000" y="65" width="159.1979" height="9" fill="#00ADD8"/>
-<rect x="181.1979" y="65" width="105.2850" height="9" fill="#3178c6"/>
-<rect x="286.4829" y="65" width="15.5687" height="9" fill="#f1e05a"/>
-<rect x="302.0516" y="65" width="7.2102" height="9" fill="#663399"/>
-<rect x="309.2617" y="65" width="6.7772" height="9" fill="#e34c26"/>
-<rect x="316.0389" y="65" width="0.7392" height="9" fill="#427819"/>
-<rect x="316.7782" y="65" width="0.6139" height="9" fill="#384d54"/>
-<rect x="317.3920" y="65" width="0.6080" height="9" fill="#89e051"/>
+<rect x="22.0000" y="65" width="145.3368" height="9" fill="#00ADD8"/>
+<rect x="167.3368" y="65" width="120.7716" height="9" fill="#3178c6"/>
+<rect x="288.1084" y="65" width="13.3144" height="9" fill="#f1e05a"/>
+<rect x="301.4228" y="65" width="8.8933" height="9" fill="#ff5a03"/>
+<rect x="310.3160" y="65" width="3.0605" height="9" fill="#663399"/>
+<rect x="313.3765" y="65" width="2.3560" height="9" fill="#336790"/>
+<rect x="315.7325" y="65" width="0.6493" height="9" fill="#e34c26"/>
+<rect x="316.3818" y="65" width="0.6364" height="9" fill="#89e051"/>
 </g>
 <circle cx="26" cy="97" r="4.5" fill="#00ADD8"/>
-<text x="36" y="101" fill="#c9d1d9" font-size="12">Go 53.78%</text>
+<text x="36" y="101" fill="#c9d1d9" font-size="12">Go 49.10%</text>
 <circle cx="26" cy="119" r="4.5" fill="#3178c6"/>
-<text x="36" y="123" fill="#c9d1d9" font-size="12">TypeScript 35.57%</text>
+<text x="36" y="123" fill="#c9d1d9" font-size="12">TypeScript 40.80%</text>
 <circle cx="26" cy="141" r="4.5" fill="#f1e05a"/>
-<text x="36" y="145" fill="#c9d1d9" font-size="12">JavaScript 5.26%</text>
-<circle cx="26" cy="163" r="4.5" fill="#663399"/>
-<text x="36" y="167" fill="#c9d1d9" font-size="12">CSS 2.44%</text>
-<circle cx="176" cy="97" r="4.5" fill="#e34c26"/>
-<text x="186" y="101" fill="#c9d1d9" font-size="12">HTML 2.29%</text>
-<circle cx="176" cy="119" r="4.5" fill="#427819"/>
-<text x="186" y="123" fill="#c9d1d9" font-size="12">Makefile 0.25%</text>
-<circle cx="176" cy="141" r="4.5" fill="#384d54"/>
-<text x="186" y="145" fill="#c9d1d9" font-size="12">Dockerfile 0.21%</text>
+<text x="36" y="145" fill="#c9d1d9" font-size="12">JavaScript 4.50%</text>
+<circle cx="26" cy="163" r="4.5" fill="#ff5a03"/>
+<text x="36" y="167" fill="#c9d1d9" font-size="12">Astro 3.00%</text>
+<circle cx="176" cy="97" r="4.5" fill="#663399"/>
+<text x="186" y="101" fill="#c9d1d9" font-size="12">CSS 1.03%</text>
+<circle cx="176" cy="119" r="4.5" fill="#336790"/>
+<text x="186" y="123" fill="#c9d1d9" font-size="12">PLpgSQL 0.80%</text>
+<circle cx="176" cy="141" r="4.5" fill="#e34c26"/>
+<text x="186" y="145" fill="#c9d1d9" font-size="12">HTML 0.22%</text>
 <circle cx="176" cy="163" r="4.5" fill="#89e051"/>
 <text x="186" y="167" fill="#c9d1d9" font-size="12">Shell 0.21%</text>
 </svg>
